@@ -25,5 +25,8 @@ W3schools: PHP Tutorial
 Tutorialspoint: PHP Tutorial
 - https://www.tutorialspoint.com/php/index.htm
 
+Javatpoint: PHP Tutorial
+- https://www.javatpoint.com/php-tutorial
+
 <!-- # Referensi Belajar SQL
 -->
