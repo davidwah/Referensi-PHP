@@ -17,4 +17,13 @@ Belajar PHP untuk PEMULA
 OOP DASAR pada PHP
 https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p
 
-# Referensi Belajar SQL
+## Lain-lain
+
+W3schools: PHP Tutorial
+- https://www.w3schools.com/php/
+
+Tutorialspoint: PHP Tutorial
+- https://www.tutorialspoint.com/php/index.htm
+
+<!-- # Referensi Belajar SQL
+-->
