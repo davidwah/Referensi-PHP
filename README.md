@@ -28,5 +28,8 @@ Tutorialspoint: PHP Tutorial
 Javatpoint: PHP Tutorial
 - https://www.javatpoint.com/php-tutorial
 
+## Buku OOP PHP  
+- [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/download-e-book-pemrograman-oop-modern-dengan-php-gratis.html)
+
 <!-- # Referensi Belajar SQL
 -->
